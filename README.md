@@ -39,7 +39,3 @@ Enhances user engagement with modern motion effects and glowing neon highlights.
 | **Media Handling** | Django Media / Static Management |
 | **Deployment Ready** | Can be easily deployed to Render, Vercel, or DigitalOcean |
 
----
-
-## 📂 Project Structure
-
